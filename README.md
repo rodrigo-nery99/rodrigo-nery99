@@ -48,8 +48,8 @@ Dados & Inteligência Artificial · do dado até a aplicação funcionando
  
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**Totem Inteligente – FlexMedia**](https://github.com/rodrigo-nery99/NOME-DO-REPOSITORIO) | Totem de atendimento white label com assistente por voz e texto, ativado por sensor de proximidade, e painel web com perfis de acesso | Python · Flask · Whisper · GPT-4o-mini · TTS · JavaScript · Raspberry Pi |
-| [**Agente de Voz – Motiva**](https://github.com/rodrigo-nery99/NOME-DO-REPOSITORIO) | Agente de voz com IA para operação e manutenção de rodovias, com registro e consulta de ocorrências por comando de voz *(em andamento)* | IA Generativa · PLN · Voz |
+| [**Totem Inteligente – FlexMedia**](https://github.com/depaolii/totem_flexmedia) | Totem de atendimento white label com assistente por voz e texto, ativado por sensor de proximidade, e painel web com perfis de acesso | Python · Flask · Whisper · GPT-4o-mini · TTS · JavaScript · Raspberry Pi |
+| [**Agente de Voz – Motiva**](https://github.com/rodrigo-nery99/challenge-motiva-rpa) | Agente de voz com IA para operação e manutenção de rodovias, com registro e consulta de ocorrências por comando de voz *(em andamento)* | IA Generativa · PLN · Voz |
  
 ---
  
